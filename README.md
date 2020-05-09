@@ -2,4 +2,4 @@
 
 A new Flutter application to demonstrate Common drawer implementation for all screen Like fragments work in Android.
  
- ![Alt text](https://github.com/madhurDroiddev/FlutterAtlanSurvey/blob/master/screenshots/ss.png?raw=true "Optional Title"),
+ ![Alt text](https://github.com/madhurDroiddev/Flutter-Drawer-demo/blob/master/demo.gif?raw=true "Optional Title"),
